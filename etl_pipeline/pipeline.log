@@ -1,0 +1,45 @@
+2026-10-29 13:11:39,279 - INFO - ETL pipeline started
+2026-10-29 13:11:39,310 - INFO - Source CSV extracted successfully
+2026-10-29 13:11:39,332 - INFO - Duplicates removed: 1
+2026-10-29 13:11:39,332 - INFO - Rows with missing values removed: 1
+2026-10-29 13:11:39,332 - INFO - Data validation passed
+2026-10-29 13:11:39,382 - INFO - Cleaned CSV saved successfully
+2026-10-29 13:11:39,382 - INFO - SQLite database loaded successfully
+2026-10-29 13:11:39,382 - INFO - SQL revenue validation completed
+2026-10-29 13:11:39,383 - INFO - ETL pipeline completed successfully
+2026-10-29 14:55:09,376 - INFO - ETL pipeline started
+2026-10-29 14:55:09,427 - INFO - Source CSV extracted successfully
+2026-10-29 14:55:09,449 - INFO - Duplicates removed: 1
+2026-10-29 14:55:09,450 - INFO - Rows with missing values removed: 1
+2026-10-29 14:55:09,451 - INFO - Data validation passed
+2026-10-29 14:55:09,504 - INFO - Cleaned CSV saved successfully
+2026-10-29 14:55:09,504 - INFO - SQLite database loaded successfully
+2026-10-29 14:55:09,504 - INFO - SQL revenue validation completed
+2026-10-29 14:55:09,504 - INFO - ETL pipeline completed successfully
+2026-10-29 15:09:47,562 - INFO - ETL pipeline started
+2026-10-29 15:09:47,615 - INFO - Source CSV extracted successfully
+2026-10-29 15:09:47,648 - INFO - Duplicates removed: 1
+2026-10-29 15:09:47,649 - INFO - Rows with missing values removed: 1
+2026-10-29 15:09:47,649 - INFO - Data validation passed
+2026-10-29 15:09:47,707 - INFO - Cleaned CSV saved successfully
+2026-10-29 15:09:47,707 - INFO - SQLite database loaded successfully
+2026-10-29 15:09:47,707 - INFO - SQL revenue validation completed
+2026-10-29 15:09:47,707 - INFO - ETL pipeline completed successfully
+2026-11-16 12:49:39,835 - INFO - ETL pipeline started
+2026-11-16 12:49:40,144 - INFO - Source CSV extracted successfully
+2026-11-16 12:49:40,257 - INFO - Duplicates removed: 1
+2026-11-16 12:49:40,258 - INFO - Rows with missing values removed: 1
+2026-11-16 12:49:40,258 - INFO - Data validation passed
+2026-11-16 12:49:40,360 - INFO - Cleaned CSV saved successfully
+2026-11-16 12:49:40,361 - INFO - SQLite database loaded successfully
+2026-11-16 12:49:40,361 - INFO - SQL revenue validation completed
+2026-11-16 12:49:40,361 - INFO - ETL pipeline completed successfully
+2026-11-17 11:22:01,630 - INFO - ETL pipeline started
+2026-11-17 11:22:01,895 - INFO - Source CSV extracted successfully
+2026-11-17 11:22:02,058 - INFO - Duplicates removed: 1
+2026-11-17 11:22:02,059 - INFO - Rows with missing values removed: 1
+2026-11-17 11:22:02,059 - INFO - Data validation passed
+2026-11-17 11:22:02,324 - INFO - Cleaned CSV saved successfully
+2026-11-17 11:22:02,325 - INFO - SQLite database loaded successfully
+2026-11-17 11:22:02,325 - INFO - SQL revenue validation completed
+2026-11-17 11:22:02,325 - INFO - ETL pipeline completed successfully
